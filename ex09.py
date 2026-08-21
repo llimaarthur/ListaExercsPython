@@ -1,6 +1,6 @@
 # Exercicío 9 - Reajuste salarial.
 
-salario_atual = float (input("Salário atual: R$ "))
+salario_atual = float(input("Salário atual: R$ "))
 
 aumento =  salario_atual * 0.15
 
