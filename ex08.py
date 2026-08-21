@@ -1,6 +1,6 @@
 # Exercício 8 - Desconto no produto.
 
-preco = float (input("Preço: "))
+preco = float(input("Preço: "))
 
 desconto = preco * 0.10
 preco_final = preco - desconto
