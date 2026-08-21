@@ -1,7 +1,7 @@
 # Exercício 1 - Soma de 2 números.
 
-a = float (input("Primeiro valor: "))
-b = float (input("Segundo valor: "))
+a = float(input("Primeiro valor: "))
+b = float(input("Segundo valor: "))
 
 soma = a + b
 
