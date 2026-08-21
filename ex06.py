@@ -1,6 +1,6 @@
 # Exercício 6 - Área e perímetro do retângulo.
 
-largura = float (input("Largura: "))
+largura = float(input("Largura: "))
 altura = float(input("Altura: "))
 
 area = largura * altura
