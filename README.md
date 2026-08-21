@@ -6,4 +6,4 @@ O objetivo é praticar lógica de programação, resolução de problemas e os f
 
 📚 Exercícios
 
-Os exercícios estão organizados em ordem numérica, do ex01.py ao ex15.py. (Na lista não havia o 11, o 12 e o 13)
+Os exercícios estão organizados em ordem numérica, do ex01.py ao ex15.py. (Na lista não havia o 11, o 12 e o 13).
