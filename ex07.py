@@ -1,6 +1,6 @@
 # Exercício 7 - Celsius para Fahrenheit.
 
-celsius = float (input("Temperatura em °C: "))
+celsius = float(input("Temperatura em °C: "))
 
 conversao = (celsius * 9 ) / 5 + 32
 
