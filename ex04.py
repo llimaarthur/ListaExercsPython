@@ -1,6 +1,6 @@
 # Exercício 4 - Dobro, triplo e metade.
 
-numero = float (input("Digite um valor: "))
+numero = float(input("Digite um valor: "))
 
 dobro = numero * 2
 triplo = numero * 3
