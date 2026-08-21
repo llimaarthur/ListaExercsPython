@@ -1,6 +1,6 @@
 #  Exercício 3 -  Antecessor e sucessor.
 
-numero = float (input("Digite um número: "))
+numero = float(input("Digite um número: "))
 
 antecessor = numero - 1
 sucessor = numero + 1
