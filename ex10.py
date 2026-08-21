@@ -1,6 +1,6 @@
 # Exercício 10 - Salário com comissão.
 
-salario_fixo = float (input("Salário fixo: R$ "))
+salario_fixo = float(input("Salário fixo: R$ "))
 total_vendido = float(input("Total vendido: R$ "))
 
 comissao = total_vendido * 0.04
