@@ -9,7 +9,7 @@ elif numero < 0:
     print("RESULTADO: NEGATIVO")
 
 else:
-    print("RESULTADO:")
+    print("RESULTADO: ZERO")
 
 # Testes realizados conforme o documento!
 # Entradas utilizadas: 12, -0.5 e 0.
