@@ -39,3 +39,7 @@ else:
     print(f"Limite: {locale.currency(limite, grouping=True)}")
     print("Resultado: NEGADO")
     print("")
+    
+# Testes realizados conforme o documento!
+# Entradas utilizadas (imóvel, salário, anos): R$ 120.000, R$ 2.000, 20 | R$ 300.000, R$ 3.000, 15 | R$ 216.000, R$ 2.000, 30
+    
