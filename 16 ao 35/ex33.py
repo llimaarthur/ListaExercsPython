@@ -37,4 +37,4 @@ else:
     print("OPÇÃO INVÁLIDA.")
     
 # Testes realizados conforme o documento!
-# Entradas utilizadas: 1, 2, 3, 4, 5, 6, 7 e 8
+# Entradas utilizadas: 1, 2, 3, 4, 5, 6 e 7.
