@@ -57,7 +57,7 @@ elif idade >= 60:
 
     print(f"Valor do ingresso: {locale.currency(meia, grouping=True)}")
 
-elif estudante == 'N':
+else:
     print(f"Idade: {idade} anos")
     print("")
     print("Estudante: Não")
