@@ -41,11 +41,5 @@ else:
     print(f"IMC: {imc: .2f}")
     print("Classificação: FAIXA ELEVADA")
     
-
-
-
-
-
-
 # Testes realizados conforme o documento!
-# Entradas utilizadas:
+# Entradas utilizadas: 50kg, 1.70m | 80kg, 1.80m | 90kg, 1.70m
