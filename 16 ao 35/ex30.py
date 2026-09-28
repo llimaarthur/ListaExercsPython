@@ -39,3 +39,9 @@ else:
     print(f"Limite: {locale.currency(limite, grouping=True)}")
     print("Resultado: NEGADO")
     print("")
+
+# Testes realizados conforme o documento:
+# Entradas utilizadas:
+# imóvel = 120000, salário = 2000, anos = 20 -> esperado: APROVADO
+# imóvel = 300000, salário = 3000, anos = 15 -> esperado: NEGADO
+# imóvel = 216000, salário = 2000, anos = 30 -> esperado: APROVADO
