@@ -35,3 +35,12 @@ elif numero == 7:
 
 else:
     print("OPÇÃO INVÁLIDA.")
+
+# Testes realizados conforme o documento:
+# Entradas utilizadas:
+# entrada = 1 -> esperado: SEGUNDA-FEIRA
+# entrada = 6 -> esperado: SÁBADO
+# entrada = 7 -> esperado: DOMINGO
+# entrada = 9 -> esperado: OPÇÃO INVÁLIDA
+# entrada = 0 -> esperado: OPÇÃO INVÁLIDA
+# entrada = 8 -> esperado: OPÇÃO INVÁLIDA
