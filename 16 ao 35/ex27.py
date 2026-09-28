@@ -41,5 +41,8 @@ else:
     print(f"IMC: {imc: .2f}")
     print("Classificação: FAIXA ELEVADA")
     
-# Testes realizados conforme o documento!
+# Testes realizados conforme o documento:
 # Entradas utilizadas:
+# peso = 50 kg, altura = 1,70 m -> esperado: ABAIXO DA FAIXA
+# peso = 80 kg, altura = 1,80 m -> esperado: FAIXA NORMAL
+# peso = 90 kg, altura = 1,70 m -> esperado: FAIXA ELEVADA
